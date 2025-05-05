@@ -65,6 +65,8 @@
 
 <img width="429" alt="image" src="https://github.com/user-attachments/assets/a96aadaf-8166-4f5d-af50-4546fa67100e" />
 
+<img width="429" alt="image" src="https://github.com/user-attachments/assets/e6019e48-c8b8-463c-a5dd-61a121d9a005" />
+
 
 ### **식사 메뉴 추천 모듈**
 - 딥러닝 모델을 통해 질문 기반 분석을 진행하여 사용자의 입맛에 추천할 만한 식사 메뉴를 추천해줍니다.
